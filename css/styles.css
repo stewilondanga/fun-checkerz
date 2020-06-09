@@ -197,18 +197,19 @@ input[type="checkbox"] {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, .15);
 }
 
-/*.slide-five label {
+.slide-five label {
   background: #999;
   width: 80px;
   height: 30px;
   border-radius: 30px;
-  box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,0.2);
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px rgba(255, 255, 255, 0.2);
   position: relative;
   display: inline-block;
   transition: all 1s;
   cursor: pointer;
 }
-.slide-five label:before{
+
+/*.slide-five label:before{
   content: "Off";
   display: inline-block;
   color: #000;
