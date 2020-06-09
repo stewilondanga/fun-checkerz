@@ -294,7 +294,7 @@ input[type="checkbox"] {
   opacity: 1;
 }
 
-/*.slide-seven label {
+.slide-seven label {
   background: #999;
   width: 80px;
   height: 30px;
@@ -306,7 +306,7 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
-.slide-seven label:before {
+/*.slide-seven label:before {
   content: "Off";
   display: inline-block;
   color: #000;
