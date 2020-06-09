@@ -246,15 +246,15 @@ input[type="checkbox"] {
   left: calc(100% - 30px);
 }
 
-/*#slide-five:checked ~ label:before{
+#slide-five:checked~label:before {
   content: "On";
   right: auto;
   left: 15px;
   color: #FFF;
-  text-shadow: 1px 1px 0px rgba(0,0,0,.15);
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, .15);
 }
 
-.slide-six {
+/*.slide-six {
   position: relative;
 }
 .slide-six label {
