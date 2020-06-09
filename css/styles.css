@@ -354,7 +354,7 @@ input[type="checkbox"] {
   color: #000;
 }
 
-/*.slide-eight label {
+.slide-eight label {
   background: #999;
   width: 24px;
   height: 24px;
@@ -367,7 +367,7 @@ input[type="checkbox"] {
   line-height: 24px;
 }
 
-.slide-eight label:after {
+/*.slide-eight label:after {
   position: absolute;
   border-left: 2px solid #FFF;
   border-bottom: 2px solid #FFF;
