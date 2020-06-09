@@ -181,10 +181,11 @@ input[type="checkbox"] {
   transition: all 0.5s;
 }
 
-/*#slide-four:checked ~ label {
+#slide-four:checked~label {
   background: green;
 }
-#slide-four:checked ~ label:after {
+
+/*#slide-four:checked ~ label:after {
   left: calc(100% - 30px);
 }
 
