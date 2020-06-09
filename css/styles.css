@@ -141,18 +141,19 @@ input[type="checkbox"] {
   opacity: 1;
 }
 
-/*.slide-four label {
+.slide-four label {
   background: #999;
   width: 80px;
   height: 30px;
   border-radius: 10px;
-  box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,0.2);
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px rgba(255, 255, 255, 0.2);
   position: relative;
   display: inline-block;
   transition: all 1s;
   cursor: pointer;
 }
-.slide-four label:before{
+
+/*.slide-four label:before{
   content: "Off";
   display: inline-block;
   color: #000;
