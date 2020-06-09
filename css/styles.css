@@ -18,10 +18,11 @@ body {
   height: 1.5em;
 }
 
-/*.margin-top {
+.margin-top {
   margin-top: 20px;
 }
-input[type="checkbox"] {
+
+/*input[type="checkbox"] {
   opacity: 0;
   display: none;
 }
