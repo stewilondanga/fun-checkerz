@@ -55,10 +55,11 @@ input[type="checkbox"] {
   transition: all 0.5s;
 }
 
-/*#slide-one:checked ~ label {
+#slide-one:checked~label {
   background: green;
 }
-#slide-one:checked ~ label:after {
+
+/*#slide-one:checked ~ label:after {
   left: calc(100% - 30px);
 }
 .slide-two {
