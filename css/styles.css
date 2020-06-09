@@ -97,11 +97,11 @@ input[type="checkbox"] {
   opacity: 0;
 }
 
-/*#slide-two:checked ~ label:after {
+#slide-two:checked~label:after {
   opacity: 1;
 }
 
-.slide-three {
+/*.slide-three {
   position: relative;
 }
 .slide-three label {
