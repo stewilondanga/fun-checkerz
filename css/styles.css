@@ -262,7 +262,7 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
-/*.slide-six label:before {
+.slide-six label:before {
   border: 2px solid #0099FF;
   content: "";
   width: 20px;
@@ -272,7 +272,7 @@ input[type="checkbox"] {
   margin-right: 10px;
 }
 
-.slide-six label:after {
+/*.slide-six label:after {
   position: absolute;
   border-left: 2px solid #0099FF;
   border-right: 10px solid #FFF;
