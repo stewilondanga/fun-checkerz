@@ -367,7 +367,7 @@ input[type="checkbox"] {
   line-height: 24px;
 }
 
-/*.slide-eight label:after {
+.slide-eight label:after {
   position: absolute;
   border-left: 2px solid #FFF;
   border-bottom: 2px solid #FFF;
@@ -384,7 +384,7 @@ input[type="checkbox"] {
   box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.2);
 }
 
-#slide-eight:checked~label {
+/*#slide-eight:checked~label {
   background: green;
 }
 
