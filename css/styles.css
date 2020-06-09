@@ -137,11 +137,11 @@ input[type="checkbox"] {
   transition: all 0.5s;
 }
 
-/*#slide-three:checked ~ label:after {
+#slide-three:checked~label:after {
   opacity: 1;
 }
 
-.slide-four label {
+/*.slide-four label {
   background: #999;
   width: 80px;
   height: 30px;
