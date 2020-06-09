@@ -63,10 +63,11 @@ input[type="checkbox"] {
   left: calc(100% - 30px);
 }
 
-/*.slide-two {
+.slide-two {
   position: relative;
 }
-.slide-two label {
+
+/*.slide-two label {
   cursor: pointer;
 }
 .slide-two label:before {
