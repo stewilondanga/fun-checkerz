@@ -101,10 +101,11 @@ input[type="checkbox"] {
   opacity: 1;
 }
 
-/*.slide-three {
+.slide-three {
   position: relative;
 }
-.slide-three label {
+
+/*.slide-three label {
   cursor: pointer;
 }
 .slide-three label:before {
