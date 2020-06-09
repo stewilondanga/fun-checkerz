@@ -254,10 +254,11 @@ input[type="checkbox"] {
   text-shadow: 1px 1px 0px rgba(0, 0, 0, .15);
 }
 
-/*.slide-six {
+.slide-six {
   position: relative;
 }
-.slide-six label {
+
+/*.slide-six label {
   cursor: pointer;
 }
 .slide-six label:before {
