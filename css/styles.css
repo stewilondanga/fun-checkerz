@@ -185,11 +185,11 @@ input[type="checkbox"] {
   background: green;
 }
 
-/*#slide-four:checked ~ label:after {
+#slide-four:checked~label:after {
   left: calc(100% - 30px);
 }
 
-#slide-four:checked ~ label:before{
+/*#slide-four:checked ~ label:before{
   content: "On";
   right: auto;
   left: 15px;
