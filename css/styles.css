@@ -348,13 +348,13 @@ input[type="checkbox"] {
   left: calc(50% - 1px);
 }
 
-/*#slide-seven:checked~label:before {
+#slide-seven:checked~label:before {
   content: "On";
   left: 50%;
   color: #000;
 }
 
-.slide-eight label {
+/*.slide-eight label {
   background: #999;
   width: 24px;
   height: 24px;
