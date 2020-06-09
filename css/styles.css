@@ -242,11 +242,11 @@ input[type="checkbox"] {
   background: green;
 }
 
-/*#slide-five:checked ~ label:after {
+#slide-five:checked~label:after {
   left: calc(100% - 30px);
 }
 
-#slide-five:checked ~ label:before{
+/*#slide-five:checked ~ label:before{
   content: "On";
   right: auto;
   left: 15px;
