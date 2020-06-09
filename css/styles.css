@@ -67,10 +67,11 @@ input[type="checkbox"] {
   position: relative;
 }
 
-/*.slide-two label {
+.slide-two label {
   cursor: pointer;
 }
-.slide-two label:before {
+
+/*.slide-two label:before {
   border: 2px solid #0099FF;
   content: "";
   width: 20px;
