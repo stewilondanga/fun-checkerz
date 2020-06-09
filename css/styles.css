@@ -59,10 +59,11 @@ input[type="checkbox"] {
   background: green;
 }
 
-/*#slide-one:checked ~ label:after {
+#slide-one:checked~label:after {
   left: calc(100% - 30px);
 }
-.slide-two {
+
+/*.slide-two {
   position: relative;
 }
 .slide-two label {
