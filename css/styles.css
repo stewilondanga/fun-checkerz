@@ -209,7 +209,7 @@ input[type="checkbox"] {
   cursor: pointer;
 }
 
-/*.slide-five label:before{
+.slide-five label:before {
   content: "Off";
   display: inline-block;
   color: #000;
@@ -217,10 +217,11 @@ input[type="checkbox"] {
   right: 15px;
   text-transform: uppercase;
   line-height: 30px;
-  text-shadow: 1px 1px 0px rgba(255,255,255,.15);
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, .15);
   transition: all 0.5s;
 }
-.slide-five label:after{
+
+/*.slide-five label:after{
   width: 30px;
   height: 30px;
   background: #fcfff4;
