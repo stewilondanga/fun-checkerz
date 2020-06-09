@@ -388,11 +388,11 @@ input[type="checkbox"] {
   background: green;
 }
 
-/*#slide-eight:checked~label:after {
+#slide-eight:checked~label:after {
   opacity: 1;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
