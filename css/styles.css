@@ -165,7 +165,7 @@ input[type="checkbox"] {
   text-shadow: 1px 1px 0px rgba(255, 255, 255, .15);
 }
 
-/*.slide-four label:after{
+.slide-four label:after {
   width: 30px;
   height: 30px;
   background: #fcfff4;
@@ -173,14 +173,15 @@ input[type="checkbox"] {
   background: -webkit-linear-gradient(top, #FFF 0%, #F6F6F6 40%, #FFF 100%);
   display: inline-block;
   position: absolute;
-  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
   border-radius: 5px;
   left: 0px;
   top: 0px;
   content: "";
   transition: all 0.5s;
 }
-#slide-four:checked ~ label {
+
+/*#slide-four:checked ~ label {
   background: green;
 }
 #slide-four:checked ~ label:after {
