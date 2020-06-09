@@ -344,11 +344,11 @@ input[type="checkbox"] {
   background: green;
 }
 
-/*#slide-seven:checked~label:after {
+#slide-seven:checked~label:after {
   left: calc(50% - 1px);
 }
 
-#slide-seven:checked~label:before {
+/*#slide-seven:checked~label:before {
   content: "On";
   left: 50%;
   color: #000;
